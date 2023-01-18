@@ -1,5 +1,3 @@
-# Regalos Shower Carlos Ivan y Camila
-
 ## Cubiertos para servir
 
 - [ ] [Cuchara pasta ($19,950)](https://www.ambientegourmet.com/cuchara-pasta-en-silicona-gris/p)
