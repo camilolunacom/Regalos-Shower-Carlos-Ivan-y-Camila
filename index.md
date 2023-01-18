@@ -1,14 +1,14 @@
 ## Cubiertos para servir
 
-- [ ] [Cuchara pasta ($19,950)](https://www.ambientegourmet.com/cuchara-pasta-en-silicona-gris/p)
-- [ ] [Espátula ($19,950)](https://www.ambientegourmet.com/espatula-en-silicona-gris/p)
-- [ ] [Cuchara sopa ($19,950)](https://www.ambientegourmet.com/cucharon-sopa-en-silicona-gris/p)
-- [ ] [Pinzas ($22,950)](https://www.ambientegourmet.com/pinza-acero-inoxidable-y-silicona-gris/p)
-- [ ] [Cuchara ($19,950)](https://www.ambientegourmet.com/cuchara-en-silicona-gris/p)
+- [x] ~[Cuchara pasta ($19,950)](https://www.ambientegourmet.com/cuchara-pasta-en-silicona-gris/p)~
+- [x] ~[Espátula ($19,950)](https://www.ambientegourmet.com/espatula-en-silicona-gris/p)~
+- [x] ~[Cuchara sopa ($19,950)](https://www.ambientegourmet.com/cucharon-sopa-en-silicona-gris/p)~
+- [x] ~[Pinzas ($22,950)](https://www.ambientegourmet.com/pinza-acero-inoxidable-y-silicona-gris/p)~
+- [x] ~[Cuchara ($19,950)](https://www.ambientegourmet.com/cuchara-en-silicona-gris/p)~
 
 ## Mesa
 
-- [ ] [Servilletero ($27,000)](https://www.ambientegourmet.com/servilletero-cuatro-negro/p)
+- [x] ~[Servilletero ($27,000)](https://www.ambientegourmet.com/servilletero-cuatro-negro/p)~
 - [ ] [Copas x2 ($55,000 c/u)](https://www.amasaceramica.com/product-page/juego-de-shots-copas-x4)
 - [ ] Vasos de whisky
 - [ ] Vasos de cerveza (que no tengan marcas de cervezas)
