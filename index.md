@@ -18,7 +18,7 @@
 
 ## Cocina
 
-- [ ] [Recipientes plásticos ($70,000)](https://articulo.mercadolibre.com.co/MCO-558498655-persal-juego-de-recipientes-plasticos-hermeticos-x-6-_JM)
+- [x] ~~[Recipientes plásticos ($70,000)](https://articulo.mercadolibre.com.co/MCO-558498655-persal-juego-de-recipientes-plasticos-hermeticos-x-6-_JM)~~
 - [ ] [Soporte para utensilios (US$18)](https://a.co/d/8rP33Rk)
 - [ ] [Ollita ($47,000)](https://articulo.mercadolibre.com.co/MCO-578807586-jarro-antiadherente-15cm-imusa-talent-_JM?attributes=COLOR_SECONDARY_COLOR:R3Jpcw==)
 - [ ] [Jarra ($35,000)](https://www.pepeganga.com/jarra-de-agua-transparente-2-l-1178706/p?idsku=99094&gclid=CjwKCAiA2fmdBhBpEiwA4CcHzWTucRrNXwJ8hOrCNRtRCpHxS7TXCGBLDI5HM7OmyYCshzpx2SFCHBoCNmAQAvD_BwE)
