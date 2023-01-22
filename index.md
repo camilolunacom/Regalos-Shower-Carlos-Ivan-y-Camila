@@ -16,7 +16,7 @@
 - [x] ~~Vasos de cerveza (que no tengan marcas de cervezas)~~
 - [x] ~~Copas de vino~~
 - [ ] Portavasos de silicona
-- [ ] Salero molinillo
+- [x] ~~Salero molinillo~~
 
 ## Cocina
 
